@@ -3,4 +3,4 @@ Languages: <u>English</u>, [Русский](https://gitflic.ru/project/realityso
 
 This is for Mega OS Issues and Reporting problems with Mega OS.
 
-To file a Issue, click "[Issues](https://github.com/JWF-Official/Mega-OS/issues)" in this Repo.
+To file a Issue, click "[Issues](https://github.com/realitysoftofficial/Mega-OS/issues)" in this Repo.
